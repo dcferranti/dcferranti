@@ -1,10 +1,10 @@
 # Daniel Ferranti
 
-**`Desenvolvimento e Análise de Dados`**
+**`Development and Data Analysis`**
 
-Me chamo Daniel Corange Ferranti e sou natural do Rio Grande do Sul. Concluí ensino técnico em Administração. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. 
+Native of Rio Grande do Sul, Brazil. Technical degree in Business Administration and a degree in Systems Analysis and Development.
 
-**`Contato e redes sociais`**
+**`Contact & Social Media`**
 <div>
   <a href = "danielcorangeferranti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/dcferranti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -13,7 +13,7 @@ Me chamo Daniel Corange Ferranti e sou natural do Rio Grande do Sul. Concluí en
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -106,23 +106,3 @@ Me chamo Daniel Corange Ferranti e sou natural do Rio Grande do Sul. Concluí en
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dcferranti&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcferranti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
